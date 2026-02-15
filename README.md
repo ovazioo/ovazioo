@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">Olá, me chamo Vitor, mas conhecido como O Vazio.</h2>
+# Olá, me chamo Vitor, mas conhecido como O Vazio.
 
 ###
 
